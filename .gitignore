@@ -1,0 +1,24 @@
+# See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
+
+# dependencies
+/ecommerce-reactjs-client/node_modules
+/ecommerce-reactjs-client/.pnp
+/ecommerce-reactjs-client.pnp.js
+
+# testing
+/ecommerce-reactjs-client/coverage
+
+# production
+/ecommerce-reactjs-client/build
+
+# misc
+/ecommerce-reactjs-client/.env
+/ecommerce-reactjs-client/.DS_Store
+/ecommerce-reactjs-client/.env.local
+/ecommerce-reactjs-client/.env.development.local
+/ecommerce-reactjs-client/.env.test.local
+/ecommerce-reactjs-client/.env.production.local
+
+/ecommerce-reactjs-client/npm-debug.log*
+/ecommerce-reactjs-client/yarn-debug.log*
+/ecommerce-reactjs-client/yarn-error.log*
